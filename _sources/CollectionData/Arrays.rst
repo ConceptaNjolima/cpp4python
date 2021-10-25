@@ -3,7 +3,7 @@
     To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 
-Collections
+Collections- just for fun!
 ~~~~~~~~~~~
 
 In addition to the numeric, Boolean, and character types,
